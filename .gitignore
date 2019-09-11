@@ -1,0 +1,6 @@
+data/loan.csv
+data/backup.csv
+.DS_Store
+lab1/.DS_Store
+lab1/.gitignore
+template1.ipynb
